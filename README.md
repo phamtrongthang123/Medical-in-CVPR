@@ -1,6 +1,10 @@
 # Medical papers in CVPR 
 
 ## CVPR 2023
+- Mingjie Li et. al., **Dynamic Graph Enhanced Contrastive Learning for Chest X-ray Report Generation**. [[pdf]](https://arxiv.org/pdf/2303.10323v1.pdf) [[code]](https://github.com/mlii0117/dcl)
+- Zhongzhen Huang et. al., **KiUT: Knowledge-injected U-Transformer for Radiology Report Generation**.
+- Zhanyu Wang et. al., **METransformer: Radiology Report Generation by Transformer with Multiple Learnable Expert Tokens**. [[pdf]](https://arxiv.org/pdf/2304.02211v1.pdf)
+- Tim Tanida et. al., **Interactive and Explainable Region-guided Radiology Report Generation**. [[pdf]](https://arxiv.org/pdf/2304.08295v1.pdf) [[code]](https://github.com/ttanida/rgrg)
 - Ziyun Yang et. al., **Directional Connectivity-based Segmentation of Medical Images**. [[pdf]](https://arxiv.org/ftp/arxiv/papers/2304/2304.00145.pdf) [[code]](https://github.com/zyun-y/dconnnet)
 - Yunhao Bai et. al., **Bidirectional Copy-Paste for Semi-Supervised Medical Image Segmentation**. 
 - Mingze Yuan et. al., **Devil is in the Queries: Advancing Mask Transformers for Real-world Medical Image Segmentation and Out-of-Distribution Localization**. [[pdf]](https://arxiv.org/pdf/2304.00212.pdf)
@@ -17,6 +21,7 @@
 - Shiqi Huang et. al., **Rethinking Few-Shot Medical Segmentation: A Vector Quantization View**. 
 
 ## CVPR 2022
+- Mingjie Li et. al., **Cross-Modal Clinical Graph Transformer for Ophthalmic Report Generation** [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Cross-Modal_Clinical_Graph_Transformer_for_Ophthalmic_Report_Generation_CVPR_2022_paper.pdf)
 - Chaowei Fang et. al., **Incremental Cross-View Mutual Distillation for Self-Supervised Medical CT Synthesis**. [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Fang_Incremental_Cross-View_Mutual_Distillation_for_Self-Supervised_Medical_CT_Synthesis_CVPR_2022_paper.pdf) 
 - Fengbei Liu et. al., **ACPL: Anti-Curriculum Pseudo-Labelling for Semi-Supervised Medical Image Classification**. [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_ACPL_Anti-Curriculum_Pseudo-Labelling_for_Semi-Supervised_Medical_Image_Classification_CVPR_2022_paper.pdf) [[code]](https://github.com/FBLADL/ACPL)
 - Ke Zhang et. al., **CycleMix: A Holistic Strategy for Medical Image Segmentation From Scribble Supervision**. [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_CycleMix_A_Holistic_Strategy_for_Medical_Image_Segmentation_From_Scribble_CVPR_2022_paper.pdf) [[code]](https://github.com/bwgzk/cyclemix)
